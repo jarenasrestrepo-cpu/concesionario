@@ -1,0 +1,90 @@
+[{
+  "_id": 1,
+  "nombre": "Andres Lopez",
+  "cargo": "Vendedor",
+  "telefono": "3015551234",
+  "correo": "andres.lopez@concesionario.com",
+  "salario": 2500000,
+  "ciudad": "Medellin"
+},
+{
+  "_id": 2,
+  "nombre": "Sofia Martinez",
+  "cargo": "Vendedora",
+  "telefono": "3025556789",
+  "correo": "sofia.martinez@concesionario.com",
+  "salario": 2600000,
+  "ciudad": "Envigado"
+},
+{
+  "_id": 3,
+  "nombre": "Juan Carlos Perez",
+  "cargo": "Gerente",
+  "telefono": "3034441122",
+  "correo": "juan.perez@concesionario.com",
+  "salario": 4500000,
+  "ciudad": "Medellin"
+},
+{
+  "_id": 4,
+  "nombre": "Camila Torres",
+  "cargo": "Secretaria",
+  "telefono": "3043332211",
+  "correo": "camila.torres@concesionario.com",
+  "salario": 2000000,
+  "ciudad": "Sabaneta"
+},
+{
+  "_id": 5,
+  "nombre": "Daniel Ramirez",
+  "cargo": "Mecanico",
+  "telefono": "3052223344",
+  "correo": "daniel.ramirez@concesionario.com",
+  "salario": 2800000,
+  "ciudad": "Itagui"
+},
+{
+  "_id": 6,
+  "nombre": "Valentina Gomez",
+  "cargo": "Contadora",
+  "telefono": "3061114455",
+  "correo": "valentina.gomez@concesionario.com",
+  "salario": 3200000,
+  "ciudad": "Medellin"
+},
+{
+  "_id": 7,
+  "nombre": "Sebastian Castro",
+  "cargo": "Asesor de servicio",
+  "telefono": "3076667788",
+  "correo": "sebastian.castro@concesionario.com",
+  "salario": 2400000,
+  "ciudad": "Envigado"
+},
+{
+  "_id": 8,
+  "nombre": "Isabella Rojas",
+  "cargo": "Auxiliar administrativa",
+  "telefono": "3087778899",
+  "correo": "isabella.rojas@concesionario.com",
+  "salario": 2100000,
+  "ciudad": "Bello"
+},
+{
+  "_id": 9,
+  "nombre": "Mateo Herrera",
+  "cargo": "Jefe de ventas",
+  "telefono": "3098889900",
+  "correo": "mateo.herrera@concesionario.com",
+  "salario": 3800000,
+  "ciudad": "Medellin"
+},
+{
+  "_id": 10,
+  "nombre": "Natalia Moreno",
+  "cargo": "Recepcionista",
+  "telefono": "3109990011",
+  "correo": "natalia.moreno@concesionario.com",
+  "salario": 1900000,
+  "ciudad": "Sabaneta"
+}]

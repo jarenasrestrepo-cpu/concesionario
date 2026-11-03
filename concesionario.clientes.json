@@ -1,0 +1,70 @@
+[{
+  "_id": 1,
+  "nombre": "Carlos Ramirez",
+  "telefono": "3001234567",
+  "correo": "carlos@email.com",
+  "ciudad": "Medellin"
+},
+{
+  "_id": 2,
+  "nombre": "Laura Gomez",
+  "telefono": "3107654321",
+  "correo": "laura@email.com",
+  "ciudad": "Envigado"
+},
+{
+  "_id": 3,
+  "nombre": "Andres Martinez",
+  "telefono": "3159876543",
+  "correo": "andres@email.com",
+  "ciudad": "Bogota"
+},
+{
+  "_id": 4,
+  "nombre": "Sofia Torres",
+  "telefono": "3204567890",
+  "correo": "sofia@email.com",
+  "ciudad": "Cali"
+},
+{
+  "_id": 5,
+  "nombre": "Juan David Perez",
+  "telefono": "3112345678",
+  "correo": "juanp@email.com",
+  "ciudad": "Barranquilla"
+},
+{
+  "_id": 6,
+  "nombre": "Valentina Rojas",
+  "telefono": "3008765432",
+  "correo": "valentina@email.com",
+  "ciudad": "Cartagena"
+},
+{
+  "_id": 7,
+  "nombre": "Daniel Castro",
+  "telefono": "3145678901",
+  "correo": "daniel@email.com",
+  "ciudad": "Bucaramanga"
+},
+{
+  "_id": 8,
+  "nombre": "Camila Herrera",
+  "telefono": "3163456789",
+  "correo": "camila@email.com",
+  "ciudad": "Pereira"
+},
+{
+  "_id": 9,
+  "nombre": "Sebastian Moreno",
+  "telefono": "3126789012",
+  "correo": "sebastian@email.com",
+  "ciudad": "Manizales"
+},
+{
+  "_id": 10,
+  "nombre": "Isabella Vargas",
+  "telefono": "3189012345",
+  "correo": "isabella@email.com",
+  "ciudad": "Envigado"
+}]

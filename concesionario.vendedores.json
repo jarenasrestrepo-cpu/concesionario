@@ -1,0 +1,90 @@
+[{
+  "_id": 1,
+  "nombre": "Miguel Angel Torres",
+  "telefono": "3004567891",
+  "correo": "miguel.torres@concesionario.com",
+  "experiencia": 5,
+  "comision": 3,
+  "ciudad": "Medellin"
+},
+{
+  "_id": 2,
+  "nombre": "Daniela Rodriguez",
+  "telefono": "3015678902",
+  "correo": "daniela.rodriguez@concesionario.com",
+  "experiencia": 3,
+  "comision": 2.5,
+  "ciudad": "Envigado"
+},
+{
+  "_id": 3,
+  "nombre": "Felipe Gonzalez",
+  "telefono": "3026789013",
+  "correo": "felipe.gonzalez@concesionario.com",
+  "experiencia": 4,
+  "comision": 3,
+  "ciudad": "Sabaneta"
+},
+{
+  "_id": 4,
+  "nombre": "Mariana Castillo",
+  "telefono": "3037890124",
+  "correo": "mariana.castillo@concesionario.com",
+  "experiencia": 2,
+  "comision": 2,
+  "ciudad": "Medellin"
+},
+{
+  "_id": 5,
+  "nombre": "Nicolas Fernandez",
+  "telefono": "3048901235",
+  "correo": "nicolas.fernandez@concesionario.com",
+  "experiencia": 6,
+  "comision": 3.5,
+  "ciudad": "Itagui"
+},
+{
+  "_id": 6,
+  "nombre": "Paula Andrea Morales",
+  "telefono": "3059012346",
+  "correo": "paula.morales@concesionario.com",
+  "experiencia": 3,
+  "comision": 2.5,
+  "ciudad": "Bello"
+},
+{
+  "_id": 7,
+  "nombre": "Santiago Ramirez",
+  "telefono": "3060123457",
+  "correo": "santiago.ramirez@concesionario.com",
+  "experiencia": 7,
+  "comision": 4,
+  "ciudad": "Medellin"
+},
+{
+  "_id": 8,
+  "nombre": "Gabriela Sanchez",
+  "telefono": "3071234568",
+  "correo": "gabriela.sanchez@concesionario.com",
+  "experiencia": 1,
+  "comision": 2,
+  "ciudad": "Envigado"
+},
+{
+  "_id": 9,
+  "nombre": "Esteban Jimenez",
+  "telefono": "3082345679",
+  "correo": "esteban.jimenez@concesionario.com",
+  "experiencia": 5,
+  "comision": 3,
+  "ciudad": "La Estrella"
+},
+{
+  "_id": 10,
+  "nombre": "Luciana Vargas",
+  "telefono": "3093456780",
+  "correo": "luciana.vargas@concesionario.com",
+  "experiencia": 4,
+  "comision": 2.5,
+  "ciudad": "Medellin"
+}]

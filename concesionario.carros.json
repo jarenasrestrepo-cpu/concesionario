@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6ae393eddbe01337e54220ea"
+  },
+  "marca": "Toyota",
+  "modelo": "Corolla Cross",
+  "anio": 2025,
+  "precio": 125000000,
+  "color": "Blanco",
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6ae393eddbe01337e54220eb"
+  },
+  "marca": "Mazda",
+  "modelo": "CX-30",
+  "anio": 2024,
+  "precio": 110000000,
+  "color": "Rojo",
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6ae393eddbe01337e54220ec"
+  },
+  "marca": "Chevrolet",
+  "modelo": "Onix",
+  "anio": 2023,
+  "precio": 65000000,
+  "color": "Gris",
+  "disponible": false
+},
+{
+  "_id": {
+    "$oid": "6ae393eddbe01337e54220ed"
+  },
+  "marca": "BMW",
+  "modelo": "Serie 3",
+  "anio": 2025,
+  "precio": 220000000,
+  "color": "Negro",
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6ae393eddbe01337e54220ee"
+  },
+  "marca": "Renault",
+  "modelo": "Duster",
+  "anio": 2024,
+  "precio": 95000000,
+  "color": "Azul",
+  "disponible": true
+}]

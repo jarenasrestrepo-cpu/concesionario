@@ -1,0 +1,70 @@
+[{
+  "_id": 1,
+  "nombre": "Toyota",
+  "pais_origen": "Japon",
+  "fundacion": 1937,
+  "tipo_vehiculo": "Automoviles y SUV"
+},
+{
+  "_id": 2,
+  "nombre": "Chevrolet",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1911,
+  "tipo_vehiculo": "Automoviles y camionetas"
+},
+{
+  "_id": 3,
+  "nombre": "BMW",
+  "pais_origen": "Alemania",
+  "fundacion": 1916,
+  "tipo_vehiculo": "Automoviles de lujo"
+},
+{
+  "_id": 4,
+  "nombre": "Mercedes-Benz",
+  "pais_origen": "Alemania",
+  "fundacion": 1926,
+  "tipo_vehiculo": "Automoviles de lujo"
+},
+{
+  "_id": 5,
+  "nombre": "Ford",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1903,
+  "tipo_vehiculo": "Automoviles y camionetas"
+},
+{
+  "_id": 6,
+  "nombre": "Honda",
+  "pais_origen": "Japon",
+  "fundacion": 1948,
+  "tipo_vehiculo": "Automoviles y motocicletas"
+},
+{
+  "_id": 7,
+  "nombre": "Renault",
+  "pais_origen": "Francia",
+  "fundacion": 1899,
+  "tipo_vehiculo": "Automoviles"
+},
+{
+  "_id": 8,
+  "nombre": "Mazda",
+  "pais_origen": "Japon",
+  "fundacion": 1920,
+  "tipo_vehiculo": "Automoviles y SUV"
+},
+{
+  "_id": 9,
+  "nombre": "Kia",
+  "pais_origen": "Corea del Sur",
+  "fundacion": 1944,
+  "tipo_vehiculo": "Automoviles y SUV"
+},
+{
+  "_id": 10,
+  "nombre": "Hyundai",
+  "pais_origen": "Corea del Sur",
+  "fundacion": 1967,
+  "tipo_vehiculo": "Automoviles y SUV"
+}]
