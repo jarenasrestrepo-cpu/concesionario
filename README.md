@@ -1,6 +1,6 @@
 # Proyecto MongoDB: Concesionario de carros
 
-**Nombre del estudiante:** [Escribe aquí tu nombre completo]  
+**Nombre del estudiante:** [juan pablo arenas restrepo]  
 **Asignatura:** [Escribe aquí la asignatura]  
 **Docente:** [Escribe aquí el nombre del docente, si aplica]
 
